@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d306dd-e1a9-4fd5-9bc0-99d8ec607f2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cp3/ass03/UpdateThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/glidergun.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/glidergun.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cp3/ass03/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp3/ass03/GameBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cp3/ass03/GameOfLifeGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp3/ass03/GameOfLifeGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cp3/ass03/GameOfLifeGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp3/ass03/GameOfLifeGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cp3/ass03/LifeProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp3/ass03/LifeProcessor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sVhGqfA9Yk4lm5kjpMXqz3rsqb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../the-game-of-life-master" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\trent\OneDrive - Flinders\work\teaching\COMP3712 2021\Assignments\Ass03\code\Assignment03\src\cp3\ass03" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cp3.ass03" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\trent\OneDrive - Flinders\work\teaching\COMP3712 2021\Assignments\Ass03\code\Assignment03\data" />
+      <recent name="D:\Workspace\trent\OneDrive - Flinders\work\teaching\COMP3712 2021\Assignments\Ass03\code\Assignment03\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameOfLifeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cp3.ass03.GameOfLifeDriver" />
+      <module name="Assignment03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cp3.ass03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameOfLifeDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Study\CProgramming3\pham0226\ass03\Assignment03" />
+          <option name="myCopyRoot" value="D:\Study\CProgramming3\pham0226\ass03\Assignment03" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Study\CProgramming3\pham0226\ass03\Assignment03" />
+          <option name="myCopyRoot" value="D:\Study\CProgramming3\pham0226\ass03\Assignment03" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d306dd-e1a9-4fd5-9bc0-99d8ec607f2f" name="Default Changelist" comment="" />
+      <created>1620963575199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620963575199</updated>
+      <workItem from="1620963578340" duration="7847000" />
+      <workItem from="1621208954758" duration="8000" />
+      <workItem from="1622440469624" duration="1552000" />
+      <workItem from="1622520946465" duration="443000" />
+      <workItem from="1622778485797" duration="2426000" />
+      <workItem from="1622782979471" duration="6022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1624032605398">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="804" y="249" key="#com.intellij.ide.util.MemberChooser/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624032605398" />
+    <state x="729" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624022594072">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="729" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624022594072" />
+    <state x="170" y="92" width="1658" height="896" key="DiffContextDialog" timestamp="1624070446850">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="170" y="92" width="1658" height="896" key="DiffContextDialog/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624070446850" />
+    <state x="779" y="294" key="FileChooserDialogImpl" timestamp="1623936534329">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="779" y="294" key="FileChooserDialogImpl/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1623936534329" />
+    <state width="1799" height="295" key="GridCell.Tab.0.bottom" timestamp="1624071680554">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="295" key="GridCell.Tab.0.bottom/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624071680554" />
+    <state width="1799" height="295" key="GridCell.Tab.0.center" timestamp="1624071680554">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="295" key="GridCell.Tab.0.center/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624071680554" />
+    <state width="1799" height="295" key="GridCell.Tab.0.left" timestamp="1624071680554">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="295" key="GridCell.Tab.0.left/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624071680554" />
+    <state width="1799" height="295" key="GridCell.Tab.0.right" timestamp="1624071680554">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="295" key="GridCell.Tab.0.right/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624071680554" />
+    <state width="1799" height="364" key="GridCell.Tab.1.bottom" timestamp="1624070641497">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="364" key="GridCell.Tab.1.bottom/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624070641497" />
+    <state width="1799" height="364" key="GridCell.Tab.1.center" timestamp="1624070641496">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="364" key="GridCell.Tab.1.center/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624070641496" />
+    <state width="1799" height="364" key="GridCell.Tab.1.left" timestamp="1624070641496">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="364" key="GridCell.Tab.1.left/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624070641496" />
+    <state width="1799" height="364" key="GridCell.Tab.1.right" timestamp="1624070641497">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1799" height="364" key="GridCell.Tab.1.right/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624070641497" />
+    <state x="695" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1623919012593">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="695" y="363" key="com.intellij.ide.util.TipDialog/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1623919012593" />
+    <state x="630" y="85" width="737" height="909" key="find.popup" timestamp="1624011632546">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="630" y="85" width="737" height="909" key="find.popup/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624011632546" />
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1624032599431">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/-1858.0.1474.864/78.0.1842.1080@78.0.1842.1080" timestamp="1624032599431" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../2019/Alternative/Assignment03/src/assignment03/GameOfLifeGUI.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
